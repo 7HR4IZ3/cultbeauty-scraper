@@ -1,0 +1,101 @@
+[
+  {
+    "@type": "Product",
+    "@context": "https://schema.org",
+    "@id": "11174178",
+    "sku": "11174178",
+    "mpn": "2010",
+    "name": "Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant (118ml)",
+    "brand": { "@type": "Brand", "name": "Paula's Choice" },
+    "description": "When the breakout hits, this Skin Perfecting 2% BHA Liquid Exfoliant from PAULA's CHOICE is an essential in your skin care armoury. Ideal for blemish-prone, oily or combination types, this non-abrasive formula is laced with BHA salicylic acid to remove dead skin cells both on the skin's surface and within the pore. Combined with its anti-inflammatory properties, this helps to reduce blemishes and blackheads for a more clarified complexion (hurrah!). Aiding salicylic acid in its blemish-clearing mission, methylpropanediol enhances absorption so you can get the most out of each and every ingredient, while simultaneously boosting hydration levels, and green tea extract delivers a hefty dose of antioxidants to soothe and protect. With a fluid toner-like consistency, the formula sinks easily into skin and is available in both full (118ml) and travel (30ml) sizes so you need never be without... ",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.75",
+      "reviewCount": "1040"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "35.0",
+        "priceCurrency": "GBP",
+        "url": "https://www.cultbeauty.co.uk/paula-s-choice-skin-perfecting-2-bha-liquid-exfoliant-118ml/11174178.html?shippingcountry\u003dGB\u0026switchcurrency\u003dGBP",
+        "itemCondition": "https://schema.org/NewCondition",
+        "sku": "11174178",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "image": "https://static.thcdn.com/productimg/300/300/11174178-1865086091874081.jpg"
+  },
+  {
+    "@type": "Product",
+    "@context": "https://schema.org",
+    "@id": "13323261",
+    "sku": "13323261",
+    "mpn": "FPLWX12X1R50",
+    "name": "Charlotte Tilbury Beauty Light Wand",
+    "brand": { "@type": "Brand", "name": "Charlotte Tilbury" },
+    "description": "Get a sculpted glow worthy of the bright lights of Tinseltown with Charlotte Tilburys Hollywood Beauty Light Wand. Like real-life airbrushing (without any of the press scandals!) this dreamy highlighter flatters all skin tones and is brimming with treated pearls to give a luminous, soft-focus finish. Free from giveaway glitter or sparkle, this believable radiance potion is perfectly applied using the soft cushion applicator pad, which delivers and blends product evenly. For a flawless finish, apply the highlighter on the high points of your cheeks, down the centre of your nose, in the corners of your eyes and along your browbone, then buff in with fingers or a brush  Charlotte Tilburys double-ended {Hollywood Complexion Brush} comes highly recommended!",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.54",
+      "reviewCount": "437"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "30.0",
+        "priceCurrency": "GBP",
+        "url": "https://www.cultbeauty.co.uk/charlotte-tilbury-beauty-light-wand/13323261.html?shippingcountry\u003dGB\u0026switchcurrency\u003dGBP\u0026variation\u003d13323262",
+        "itemCondition": "https://schema.org/NewCondition",
+        "sku": "13323262",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "price": "30.0",
+        "priceCurrency": "GBP",
+        "url": "https://www.cultbeauty.co.uk/charlotte-tilbury-beauty-light-wand/13323261.html?shippingcountry\u003dGB\u0026switchcurrency\u003dGBP\u0026variation\u003d13323263",
+        "itemCondition": "https://schema.org/NewCondition",
+        "sku": "13323263",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "price": "30.0",
+        "priceCurrency": "GBP",
+        "url": "https://www.cultbeauty.co.uk/charlotte-tilbury-beauty-light-wand/13323261.html?shippingcountry\u003dGB\u0026switchcurrency\u003dGBP\u0026variation\u003d13323264",
+        "itemCondition": "https://schema.org/NewCondition",
+        "sku": "13323264",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "price": "21.0",
+        "priceCurrency": "GBP",
+        "url": "https://www.cultbeauty.co.uk/charlotte-tilbury-beauty-light-wand/13323261.html?shippingcountry\u003dGB\u0026switchcurrency\u003dGBP\u0026variation\u003d13323265",
+        "itemCondition": "https://schema.org/NewCondition",
+        "sku": "13323265",
+        "availability": "https://schema.org/OutOfStock"
+      },
+      {
+        "@type": "Offer",
+        "price": "30.0",
+        "priceCurrency": "GBP",
+        "url": "https://www.cultbeauty.co.uk/charlotte-tilbury-beauty-light-wand/13323261.html?shippingcountry\u003dGB\u0026switchcurrency\u003dGBP\u0026variation\u003d13350153",
+        "itemCondition": "https://schema.org/NewCondition",
+        "sku": "13350153",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "price": "30.0",
+        "priceCurrency": "GBP",
+        "url": "https://www.cultbeauty.co.uk/charlotte-tilbury-beauty-light-wand/13323261.html?shippingcountry\u003dGB\u0026switchcurrency\u003dGBP\u0026variation\u003d13350154",
+        "itemCondition": "https://schema.org/NewCondition",
+        "sku": "13350154",
+        "availability": "https://schema.org/InStock"
+      }
+    ],
+    "image": "https://static.thcdn.com/productimg/300/300/13323261-1674896631409592.jpg"
+  }
+]
